@@ -1,6 +1,3 @@
-# python-analytics
-Учебные проекты по pandas, requests и визуализации
-
 # Python Analytics
 
 Учебные проекты по анализу данных: pandas, requests, визуализация.
